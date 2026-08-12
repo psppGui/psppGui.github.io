@@ -29,4 +29,4 @@ function copiarTexto(email) {
       console.error("Erro ao copiar:", err);
     });
 }
-copiarTexto("gyugym2@gmai.com");
+copiarTexto("gyugym2@gmail.com");
