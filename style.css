@@ -14,7 +14,7 @@ linear-gradient(
 rgba(0, 0, 0, 0.506),
 rgba(15,10,13,0.94)
 ),
-url("images/fundo.jpeg");
+url("images/fundo.png");
 background-size:cover;
 background-position:center;
 background-attachment:fixed;
